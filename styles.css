@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container.title{
+    background-color: burlywood;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.container{
+    background-color: black;
+    margin: 30px;
+    text-align: center;
+}
+
+.text-recipe{
+    color: white;
+}
